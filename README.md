@@ -1,6 +1,4 @@
-# climate_risk_analysis
- 
-# Climate Risk Analysis Tool
+ # Climate Risk Analysis Tool
 
 ## Overview
 
